@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39500359756",
+    "project_id": "flyfagerstromtest",
+    "storage_bucket": "flyfagerstromtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39500359756:android:dcafc45b1d7486f2abace9",
+        "android_client_info": {
+          "package_name": "com.bbostt.flyfagerstromtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39500359756-s8jb2d322v5i8nar9o8i7973bt7effo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgAPNuXq7Un3mU9jx0Xm1EUjGeg5g6JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39500359756-s8jb2d322v5i8nar9o8i7973bt7effo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
